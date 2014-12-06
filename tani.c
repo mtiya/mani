@@ -8,6 +8,7 @@ scanf(%d,a);
 printf("\\n enter the second number");
 scanf(%d,b);
 getch();
+hhjhkj
 
 }
 
